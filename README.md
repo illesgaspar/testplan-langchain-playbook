@@ -1,4 +1,4 @@
-# testplan-langchain-playbook
+# Testplan-langchain-playbook
 This a chatbot playbook to see how I can talk to the opensource testplan documentation. 
 It is based on https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Ask%20A%20Book%20Questions.ipynb
 
@@ -23,3 +23,5 @@ Once this is done, you can create your query. E.g.: "What python versions are su
 With the OpenAI embedding endpoint, we also embed the question and proceed to do a similarity search which is a comparison of the query embedding and the stored documentations' embedding on Pinecone.
 
 When we have the most similar documentation parts from the database, we can pass that to the chain as the context of our question, which it should use to answer it.
+
+__I will keep on working this either in python, or typescript in my freetime, so feel free to tag along or contribute.__
