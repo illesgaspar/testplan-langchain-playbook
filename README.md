@@ -1,6 +1,7 @@
 # Testplan-langchain-playbook
 This a chat playbook based on LangChain to see how I can talk to the opensource TestPlan documentation. 
 It is based on https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Ask%20A%20Book%20Questions.ipynb
+The data used here is acessible [TestPlan Documentation](https://testplan.readthedocs.io/en/latest/) owned by Morgan Stanley.
 
 # What you need
 
