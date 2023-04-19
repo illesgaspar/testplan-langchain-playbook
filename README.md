@@ -25,6 +25,5 @@ With the OpenAI embedding endpoint, we also embed the question and proceed to do
 
 When we have the most similar documentation parts from the database, we can pass that to the chain as the context of our question, which it should use to answer it.
 
-__I will keep on working this either in python, or typescript in my freetime, so feel free to tag along or contribute.__
 Note that this is hardly scracthing the surface of what is possible.
 If you are interested, you can read more about it on the [LangChain documentation](https://docs.langchain.com/docs/) or check out [gkamradt's langchain cookbook](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook.ipynb)
